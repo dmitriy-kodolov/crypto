@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "rank": 1,
+            "slug": "bitcoin",
+            "name": "Bitcoin",
+            "category": "Currency",
+            "circulatingSupply": 19309968,
+            "values": {
+                "USD": {
+                    "price": 22450.715438452105
+                }
+            }
+        },
+        {
+            "id": 3,
+            "rank": 2,
+            "slug": "ethereum",
+            "name": "Ethereum",
+            "category": "Blockchain Infrastructure",
+            "circulatingSupply": 120475538,
+            "values": {
+                "USD": {
+                    "price": 1570.758676183093
+                }
+            }
+        }
+    ]
+}
